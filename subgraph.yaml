@@ -8,7 +8,7 @@ dataSources:
     name: Factory
     network: rinkeby
     source:
-      address: '0x693dC47627ea4C97fd685329f086b4DF41C4dB65'
+      address: '0x1F6cDA996d00Eab2e207C6b411ED755B61C99f28'
       abi: Factory
       startBlock: 10000834
     mapping:
